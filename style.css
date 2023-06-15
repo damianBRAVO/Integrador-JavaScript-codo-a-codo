@@ -1,0 +1,48 @@
+
+.navbar {
+    background-color: #424949;
+}
+
+.fondo {
+    background-image: url("images/ba1.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.btn-comprar1 {
+    color: rgb(38, 187, 38); 
+}
+
+.btn-comprar2 {
+    background-color: rgb(38, 187, 38); 
+}
+
+.btn-javascript {
+    background-color: rgb(199, 170, 88);
+}
+
+.btn-react {
+    background-color: rgb(81, 177, 201);
+}
+
+.btn-negocios {
+    background-color: rgb(111, 115, 116);
+}
+
+.btn-startups {
+    background-color: rgb(231, 71, 111);
+}
+
+.lugar-fondo {
+    background-color: #39373d; 
+    color: white;
+}
+
+.btn-form {
+     background-color:#7fff00;
+}
+
+.bgc-gradient-footer {
+    background: linear-gradient(to right, #082156, #0D368C);
+}
